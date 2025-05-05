@@ -1,0 +1,3 @@
+30 23 5 5 2025 date && echo "At Amex, We Do What's Right."
+*/1 echo The current date is: %date% %time% && echo "Amex' motto is 'Don't live life without it!"
+
